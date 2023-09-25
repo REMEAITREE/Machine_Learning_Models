@@ -1,1 +1,1 @@
-# Machine_Linearing_Model
+# Machine_Learning_Models
